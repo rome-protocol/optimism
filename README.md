@@ -15,6 +15,8 @@ In this repository, you'll find numerous core components of the OP Stack, the de
 
 ## Documentation
 
+
+- Run `./geth-tool.sh` to set up and run geth
 - If you want to build on top of OP Mainnet, refer to the [Optimism Documentation](https://docs.optimism.io)
 - If you want to build your own OP Stack based blockchain, refer to the [OP Stack Guide](https://docs.optimism.io/stack/getting-started)
 
